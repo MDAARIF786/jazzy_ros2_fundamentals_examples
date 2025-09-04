@@ -10,7 +10,7 @@ The package includes minimalist ROS 2 code to demonstrate important ROS 2 concep
 ## Prerequisites
  
 - ROS 2 must be  installed
-- Python 3
+- Python 3 required
 - Created ROS 2 workspace (`ros2_ws`)
  
 ## Author
